@@ -14,7 +14,7 @@ This Code assessment represents a coding challenge for Data Engineering roles.
 In this challenge, we will use a dataset having the current job posting hosted by the City of New york which is available on the City of New York's official jobs site (https://www1.nyc.gov/jobs/index.page).
 
 - Internal postings availble to city employees and external postings availbale to the public are included. 
-- Data is accesible in the CSV file [nyc-jobs.csv](https://github.com/ProjectsForDataChapter/data_engineering_takehome1/blob/main/dataset/nyc-jobs.csv)
+- Data is accesible in the CSV file [nyc-jobs.csv](https://github.com/rohanurkude28/data_engineering_takehome/blob/main/dataset/nyc-jobs.csv)
 
 This challenge is composed of following steps: 
 
@@ -49,7 +49,7 @@ This challenge is composed of following steps:
 - PySpark should be used
 - Feel free to use any libraries (you can use pip install, if needed)
 - Use a visualization library to present your analysis results.
-- Any learnings/ challenges/ considerations/ assumptions, please document in [MyDocument.md](https://github.com/ProjectsForDataChapter/data_engineering_takehome1/blob/main/MyDocument.md)
+- Any learnings/ challenges/ considerations/ assumptions, please document in [MyDocument.md](https://github.com/rohanurkude28/data_engineering_takehome/blob/main/MyDocument.md)
 
 ## Technical Support:
 
@@ -65,15 +65,15 @@ This challenge is composed of following steps:
 2. Push the cloned repo into **your own** Github account.
      - **Please don't commit anything to the parent repo, everything should be done in your own Github repo**.
      
-3. Follow the installation instructions in [INSTALL.md](https://github.com/ProjectsForDataChapter/data_engineering_takehome1/blob/main/INSTALL.md)
+3. Follow the installation instructions in [INSTALL.md](https://github.com/rohanurkude28/data_engineering_takehome/blob/main/INSTALL.md)
 4. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture 
 
-  ![jupyter-notebook](https://github.com/ProjectsForDataChapter/data_engineering_takehome1/blob/main/pictures/docker-compose.png)
+  ![jupyter-notebook](https://github.com/rohanurkude28/data_engineering_takehome/blob/main/pictures/docker-compose.png)
 
 5. Open the notebook (assesment_notebook.ipynb). 
 6. Read the documentation and run the cells accordingly. Once you create a spark session you should be able to see application **pyspark-assesment** running in the Spark Master UI as below. 
 
-  ![spark-application](https://github.com/ProjectsForDataChapter/data_engineering_takehome1/blob/main/pictures/spark-application.png)
+  ![spark-application](https://github.com/rohanurkude28/data_engineering_takehome/blob/main/pictures/spark-application.png)
 
 By now you would have already have below things in place:
 
