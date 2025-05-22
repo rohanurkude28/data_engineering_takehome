@@ -1,0 +1,2 @@
+agency,businessTitle,civilServiceTitle,jobCategory,postingDate,salaryRangeFrom,salaryRangeTo,avgSalary,postingYear,degreeLevel,skillsJson
+Agency A,Software Engineer,Civil Title,Tech,2023-06-01,60000,80000,70000.0,2023,Bachelors,"[\"python\",\"sql\"]"
